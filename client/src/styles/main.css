@@ -1,0 +1,55 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app-wrapper {
+  min-height: 100vh;
+  padding: 20px;
+  background: linear-gradient(to right, #1f1f1f, #2c2c2c);
+}
+
+.form-container {
+  background-color: #1e1e1e;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+}
+
+h2, h3, h4 {
+  color: #00bcd4;
+}
+
+.btn-primary {
+  background-color: #2196f3;
+  border: none;
+}
+
+.btn-success {
+  background-color: #4caf50;
+  border: none;
+}
+
+.btn-danger {
+  background-color: #f44336;
+  border: none;
+}
+
+.btn-warning {
+  background-color: #ff9800;
+  border: none;
+}
+
+.table {
+  color: #fff;
+}
+
+a {
+  color: #90caf9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #64b5f6;
+}
